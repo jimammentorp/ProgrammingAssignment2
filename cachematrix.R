@@ -1,6 +1,6 @@
 ## Lexical Scoping
 
-# This first function, makeCache creates a special "matrix" that can cache its inverse
+## This first function, makeCache creates a special "matrix" that can cache its inverse
 
 # Function Arguments:
 #

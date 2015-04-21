@@ -48,6 +48,6 @@ cacheSolve <- function(x, ...) {
     }
     data <- x$get()
     m <- solve(data, ...)
-    x$setSolve(m)
+    x$setcache(m)
     m    
 }
